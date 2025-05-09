@@ -19,8 +19,8 @@ Hướng dẫn cài đặt
 Thực hiện các bước sau để cài đặt và chạy dự án:
 1. Tải mã nguồn từ GitHub
 Tải dự án về máy tính của bạn:
-git clone https://github.com/<tên_người_dùng>/kenh14_news_scraper.git
-cd kenh14_news_scraper
+git clone https://github.com/<dquy04>/Demo.git
+cd BAITAPLON_TDHQT
 
 Thay <tên_người_dùng> bằng tên người dùng GitHub của bạn.
 2. Cài đặt Python
