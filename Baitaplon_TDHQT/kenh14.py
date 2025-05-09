@@ -305,7 +305,7 @@ def scrape_job():
 
 def main():
     """Chương trình chính: thiết lập lịch chạy vào 6h sáng hàng ngày."""
-    schedule.every().day.at("14:07").do(scrape_job)  # Lên lịch chạy lúc 6h sáng
+    schedule.every().day.at("06:00").do(scrape_job)  # Lên lịch chạy lúc 6h sáng
     logging.info("Đã thiết lập lịch chạy vào 6h sáng hàng ngày")
 
     while True:
